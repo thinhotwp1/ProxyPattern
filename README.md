@@ -1,0 +1,2 @@
+# ProxyPattern
+Proxy Pattern Sample
