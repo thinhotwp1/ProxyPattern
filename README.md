@@ -7,7 +7,7 @@
 🥈 Proxy Pattern có thể được sử dụng trong nhiều trường hợp khác nhau, chẳng hạn như:
 - Tối ưu hoá tải cho các đối tượng có kích thước lớn, hoặc đối tượng cần phải được tạo mất nhiều thời gian.
 - Giới hạn quyền truy cập cho các đối tượng (Kiểm tra quyên quyền user trước khi vào controller, khi sử dụng object,...)
-- bXử lý các yêu cầu trước khi chuyển tiếp chúng đến đối tượng gốc (logging trước và sau request, response).
+- Xử lý các yêu cầu trước khi chuyển tiếp chúng đến đối tượng gốc (logging trước và sau request, response).
 - Tạo các ghi chú hoặc ghi lại các hoạt động của đối tượng gốc.
 - Tách biệt mã của đối tượng gốc và mã của đối tượng liên quan đến việc sử dụng đối tượng gốc.
 
